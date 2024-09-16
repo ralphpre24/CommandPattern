@@ -12,4 +12,4 @@ Devices can be controlled without the central hub or app needing to understand t
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 
-UML Class Diagram: <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/f89ee215-444c-4df6-9ba0-022c6c4480b5" id="Xjv~U6THfj4h"></iframe></div>
+UML Class Diagram: 
